@@ -1,8 +1,6 @@
-# Welcome to Eagle's Nest!
-
 ## Guys, I am just trying to update this repo with the details of all the other github repos. 
 
-**List of all the Github Repos:**
+_**List of all the Github Repos:**_
 
 [AndroidDemos](https://github.com/Keshava11/AndroidDemos/blob/master/README.md)
 
