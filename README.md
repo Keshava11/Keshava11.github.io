@@ -4,19 +4,19 @@
 
 **List of all the Github Repos:**
 
-###[AndroidDemos](https://github.com/Keshava11/AndroidDemos/blob/master/README.md)
+[AndroidDemos](https://github.com/Keshava11/AndroidDemos/blob/master/README.md)
 
-###[LatentLoader](https://github.com/Keshava11/LatentLoader/blob/master/README.md)
+[LatentLoader](https://github.com/Keshava11/LatentLoader/blob/master/README.md)
 
-###[ImageUploadAppEnginePython](https://github.com/Keshava11/image-upload-gae-python/blob/master/README.md)
+[ImageUploadAppEnginePython](https://github.com/Keshava11/image-upload-gae-python/blob/master/README.md)
 
-###[DroidWidgets](https://github.com/Keshava11/DroidWidgets/blob/master/README.md)
+[DroidWidgets](https://github.com/Keshava11/DroidWidgets/blob/master/README.md)
 
-###[AndroidNDKDemos](https://github.com/Keshava11/AndroidNDKDemos/blob/master/README.md)
+[AndroidNDKDemos](https://github.com/Keshava11/AndroidNDKDemos/blob/master/README.md)
 
-###[AndroidPatternDemos](https://github.com/Keshava11/AndroidPatternDemos/blob/master/README.md)
+[AndroidPatternDemos](https://github.com/Keshava11/AndroidPatternDemos/blob/master/README.md)
 
-###[WebUIDemos](https://github.com/Keshava11/WebUIDemos/blob/master/README.md)
+[WebUIDemos](https://github.com/Keshava11/WebUIDemos/blob/master/README.md)
 
 
 <!--
